@@ -1,7 +1,11 @@
 <!-- <h1 align="center">👋 Hi there I am Dheerendra Singh Bhandari</h1> -->
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#1ABC9C;">Dheerendra Singh Bhandari</span></h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=👋%20Hi%20there!%20I'm%20Dheerendra%20Singh%20Bhandari&width=900&height=200" alt="Header"/>
+</p>
+<!-- <h1 align="center">👋 Hi there, I'm <span style="color:#1ABC9C;">Dheerendra Singh Bhandari</span></h1> -->
 <h3 align="center">🚀 DevOps Eenthusiast | Cloud | CI/CD | Automation</h3>
+
 
 
 
