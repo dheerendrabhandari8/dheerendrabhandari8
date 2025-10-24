@@ -5,10 +5,15 @@
 
 
 ☁️ Cloud Platforms: **AWS, Azure**
+
 🧩 Infrastructure as Code (IaC): **Terraform, Ansible** 
+
 🐳 Containerization & Orchestration: **Docker, Kubernetes**
+
 ⚙️ CI/CD Pipelines: **GitHub Actions, Jenkins** 
+
 🔒 Monitoring & Security: **Prometheus, Grafana**
+
 💬 Scripting & Automation: **Bash, Python**
 
 
