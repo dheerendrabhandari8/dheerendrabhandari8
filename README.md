@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi there I am Dheerendra Singh Bhandari</h1>
+<!-- <h1 align="center">👋 Hi there I am Dheerendra Singh Bhandari</h1> -->
+
+<h1 align="center">👋 Hi there, I'm <span style="color:#1ABC9C;">Dheerendra Singh Bhandari</span></h1>
+<h3 align="center">🚀 DevOps Eenthusiast | Cloud | CI/CD | Automation</h3>
 
 
 
@@ -17,7 +20,7 @@
 
 <hr>
 
-<h3 align="center">A passionate DevOps Engineer</h3>
+<!-- <h3 align="center">A passionate DevOps Eenthusiast</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerendrabhandari8&label=Profile%20views&color=0e75b6&style=flat" alt="dheerendrabhandari8" /> </p>
 
